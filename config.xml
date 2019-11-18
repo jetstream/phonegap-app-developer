@@ -67,7 +67,6 @@
     <engine name="ios" spec="^4.5.3" />
    	<plugin name="cordova-plugin-hidden-statusbar-overlay" spec="https://github.com/katzer/cordova-plugin-hidden-statusbar-overlay" />
     <plugin name="cc.fovea.cordova.purchase" source="npm" />
-    <plugin name="cordova.plugins.DetectMuteSwitch" spec="https://github.com/AnasAboureada/Cordova-Plugin-Mute-Switch-Detector" />
     <plugin name="cordova-silent-mode" spec="https://github.com/flexi-xu/cordova-silent-mode" />
     <plugin name="cordova-plugin-apprate" spec="https://github.com/pushandplay/cordova-plugin-apprate" />
     <plugin name="cordova-plugin-battery-status" spec="^1.2.5" />
